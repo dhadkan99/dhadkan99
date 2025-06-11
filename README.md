@@ -3,7 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhadkan99&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/dhadkan99?style=social)  
-![Languages](https://img.shields.io/badge/Code-JavaScript%20%7C%20Java%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20C%23-yellow)  
+![Languages](https://img.shields.io/badge/Code-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS%20%7C%20Python-yellow)
+  
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js%20%7C%20Express-black)  
 ![Tools](https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Git%20%7C%20Postman-blue)
 
