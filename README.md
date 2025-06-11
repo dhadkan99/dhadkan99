@@ -6,7 +6,8 @@
 ![Languages](https://img.shields.io/badge/Code-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS%20%7C%20Python-yellow)
   
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js%20%7C%20Express-black)  
-![Tools](https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Git%20%7C%20Postman-blue)
+![Tools](https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Git%20%7C%20Postman%20%7C%20Unity%20%7C%20Figma-blue)
+
 
 I'm a passionate and precise developer focused on building functional, creative digital solutions. I enjoy working across both front-end and back-end technologies, with a strong interest in UI/UX design and cybersecurity.
 
