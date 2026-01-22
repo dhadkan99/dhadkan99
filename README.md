@@ -54,5 +54,4 @@ Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI E
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/dhadkan99
+
