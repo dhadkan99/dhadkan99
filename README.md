@@ -6,15 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhadkan99&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-
-
-<br clear="both" />
-
 ## 👨‍💻 About Me
-**Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast**
-
-I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
-Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
 
 <p align="right">
   <img
@@ -23,6 +15,14 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
     alt="Coding GIF"
   />
 </p>
+
+**Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast**
+
+I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
+Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
+
+<br clear="both" />
+
 
 ## 📊 GitHub Status
 
