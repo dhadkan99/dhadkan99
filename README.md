@@ -57,8 +57,9 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 ## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.gif?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.gif" />
 </p>
+
 
 
 
