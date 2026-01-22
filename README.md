@@ -8,8 +8,7 @@
 ## 👨‍💻 About Me
 Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast  
 
-I enjoy building **clean, functional, and user-focused web applications** using modern frontend technologies.  
-Currently expanding my skills toward **full-stack development**, **AI**, and **secure web practices**.
+
 
 ---
 
