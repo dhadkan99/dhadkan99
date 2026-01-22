@@ -22,23 +22,6 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 <br clear="both" />
 
-
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhadkan99&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhadkan99&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhadkan99&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 <div align="left">
@@ -68,6 +51,23 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 </div>
 
 ---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhadkan99&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhadkan99&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhadkan99&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 
 ## 🔗 Connect with Me
 
