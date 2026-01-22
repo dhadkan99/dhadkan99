@@ -6,9 +6,10 @@
 ---
 
 ## 👨‍💻 About Me
-Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast  
+**Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX Enthusiast**
 
-
+I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
+Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
 
 ---
 
@@ -34,8 +35,8 @@ Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI E
 
 ## 🎯 Current Focus
 - Frontend development with **React & Next.js**
-- Improving **UI/UX design**
-- Learning **AI fundamentals**
+- UI/UX design systems
+- Learning **AI & data fundamentals**
 - Secure & scalable web apps
 - Unity simulations & games (C#)
 
@@ -43,17 +44,21 @@ Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI E
 
 ## 📊 GitHub Stats
 
-![Dhadkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhadkan99&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhadkan99&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhadkan99&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhadkan99&layout=compact&theme=tokyonight" />
+</p>
 
 ---
-
-
 
 ## 🐍 GitHub Activity
-![GitHub Snake](https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.gif?palette=github-dark)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.gif?palette=github-dark" />
+</p>
 
----
 
 
