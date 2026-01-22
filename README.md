@@ -10,7 +10,7 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 <img
   align="right"
   height="150"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtpN3lpNjVra3ZlYTNhMTgxd3F0bThlbm9lcnBvcDZwc3czYXg0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HO2cuakPoSngvitf0M/giphy.gif)"
   alt="Coding GIF"
 />
 
