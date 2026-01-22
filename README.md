@@ -8,28 +8,19 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img
+  align="right"
+  height="140"
+  src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
+  alt="Coding GIF"
+/>
 
 **Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast**
 
 I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
 Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
 
-</td>
-
-<td width="35%" align="right">
-
-<img height="120"
-     src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif" />
-
-<img height="120"
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 
 ## 📊 GitHub Status
