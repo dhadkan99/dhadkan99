@@ -8,7 +8,7 @@
 
 <p align="right">
   <img
-    height="150"
+    height="140"
     src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
     alt="Coding GIF"
   />
@@ -21,6 +21,7 @@
 
 I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
 Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
+
 
 
 ## 📊 GitHub Status
