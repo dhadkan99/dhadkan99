@@ -1,19 +1,20 @@
-<h2 align="left">
+<h1 align="left">
   Hi 👋! My name is Dhadkan KC and I'm a Computer Science student from Nepal 🇳🇵
-</h2>
+</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhadkan99&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-<img
-  align="right"
-  height="150"
-  src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
-  alt="Coding GIF"
-/>
+<p align="right">
+  <img
+    height="150"
+    src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
+    alt="Coding GIF"
+  />
+</p>
 
----
+<br clear="both" />
 
 ## 👨‍💻 About Me
 **Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI Enthusiast**
@@ -21,7 +22,6 @@
 I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.  
 Currently exploring **AI fundamentals**, **secure web development**, and **full-stack systems**.
 
----
 
 ## 📊 GitHub Status
 
