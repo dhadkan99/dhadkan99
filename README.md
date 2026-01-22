@@ -48,9 +48,11 @@ Frontend Developer | Computer Science Student from Nepal 🇳🇵 | UI/UX & AI E
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.svg)
+
+## 🐍 GitHub Activity
+![GitHub Snake](https://raw.githubusercontent.com/dhadkan99/dhadkan99/output/github-contribution-grid-snake.gif?palette=github-dark)
+
 
 ---
 
