@@ -1,19 +1,19 @@
 <h1 align="left">
-  Hi ! My name is Dhadkan KC and I'm a Computer Science student from Nepal 🇳🇵
+  Hi 👋! My name is Dhadkan KC and I'm a Computer Science student from Nepal 🇳🇵
 </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhadkan99&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dhadkan99&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 <img
   align="right"
   height="140"
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
   alt="Coding GIF"
 />
 
@@ -26,7 +26,7 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 ---
 
-##  Tech Stack
+## 🧠 Tech Stack
 
 <div align="left">
 
@@ -90,7 +90,7 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhadkan99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -106,7 +106,7 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 ---
 
-##  Connect with Me
+## 🔗 Connect with Me
 
 <div align="left">
   <a href="https://instagram.com/" target="_blank">
@@ -122,7 +122,7 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 ---
 
-##  GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -135,4 +135,4 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 ---
 
- *Always learning. Always building.*
+⭐ *Always learning. Always building.*
