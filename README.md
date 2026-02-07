@@ -80,7 +80,11 @@ Currently exploring **AI fundamentals**, **secure web development**, and **full-
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhadkan99&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dhadkan99&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="420"
+  />
 </p>
 
 
