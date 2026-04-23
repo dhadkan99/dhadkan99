@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi 👋! My name is Dhadkan KC and I'm a Computer Science student from Nepal 🇳🇵
+  Hi ! My name is Dhadkan KC and I'm a Computer Science student from Nepal 
 </h1>
 
 <p align="left">
