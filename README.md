@@ -4,7 +4,7 @@
 <div align="center">
   <img
     src="./profile/animated-banner.gif"
-    alt="Dhadkan KC Mario Animated GitHub Statistics"
+    alt="Mario Animated GitHub Statistics"
     width="100%"
   />
 </div>
@@ -143,19 +143,19 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
+<!-- GitHub statistics -->
 <div align="center">
   <img
     src="./profile/stats.svg"
-    alt="Dhadkan KC GitHub Statistics"
+    alt="GitHub Statistics"
     width="49%"
   />
   <img
     src="./profile/top-langs.svg"
-    alt="Most Used Languages"
+    alt="Top Languages"
     width="49%"
   />
 </div>
-
 <br/>
 
 <div align="center">
