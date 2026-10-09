@@ -10,11 +10,11 @@
   />
 </p>
 
-<!-- Animated Pixel Profile -->
+<!-- Full Width Animated Developer Banner -->
 <div align="center">
   <img
-    src="https://pixel-profile-zeta.vercel.app/api/render/dhadkan99/pixel.svg"
-    alt="Dhadkan KC Pixel Profile"
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="Animated Developer Workspace"
     width="100%"
   />
 </div>
@@ -23,31 +23,31 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
+<!-- Original Mr. Bean GIF -->
 <img
   align="right"
-  width="300"
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-  alt="Developer Animation"
+  width="200"
+  src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
+  alt="Mr. Bean Coding GIF"
 />
 
 <p>
-  <b>Full-Stack Developer & Frontend Specialist</b> specializing in
-  React.js, Next.js, and TypeScript with experience building responsive,
-  user-focused web applications. Skilled in API integration, translating
-  UI/UX designs into scalable solutions, and delivering high-quality
-  frontend experiences through professional and freelance projects.
+  <b>Full-Stack Developer & Frontend Specialist</b> experienced in
+  building responsive, scalable web applications using
+  <b>React.js, Next.js, and TypeScript</b>.
 </p>
 
 <p>
-  I develop reusable UI components from Figma designs, integrate REST APIs,
-  and collaborate with teams using Git and Agile methodologies, always
-  focused on performance, accessibility, and cross-device compatibility.
+  I transform Figma designs into reusable UI components,
+  integrate REST APIs, and collaborate with teams using Git
+  and Agile methodologies, focusing on performance,
+  accessibility, and user experience.
 </p>
 
 <p>
-  Based in Kathmandu, Nepal, I work across professional internships and
-  freelance engagements, bringing the same editorial attention to detail
-  from design concept through production deployment.
+  Based in <b>Kathmandu, Nepal 🇳🇵</b>, I have experience
+  working on professional and freelance projects,
+  from design implementation to production deployment.
 </p>
 
 <br clear="both"/>
@@ -232,6 +232,4 @@
 
 ---
 
-<div align="center">
-  <h3>⭐ Always learning. Always building.</h3>
-</div>
+
