@@ -1,29 +1,25 @@
 
-<h1 align="left">
-  Hi! My name is Dhadkan KC and I'm a Computer Science student from Nepal 🇳🇵
-</h1>
+<!-- MARIO ANIMATED GITHUB STATISTICS BANNER -->
 
-<p align="left">
+<div align="center">
+  <img
+    src="./profile/animated-banner.gif"
+    alt="Dhadkan KC Mario Animated GitHub Statistics"
+    width="100%"
+  />
+</div>
+
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=dhadkan99&label=PROFILE+VIEWS&base=50&abbreviated=true&color=red&style=plastic"
     alt="Profile Views"
   />
 </p>
 
-<!-- Full Width Animated Developer Banner -->
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Animated Developer Workspace"
-    width="100%"
-  />
-</div>
-
 ---
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-<!-- Original Mr. Bean GIF -->
 <img
   align="right"
   width="200"
@@ -32,9 +28,9 @@
 />
 
 <p>
-  <b>Full-Stack Developer & Frontend Specialist</b> experienced in
-  building responsive, scalable web applications using
-  <b>React.js, Next.js, and TypeScript</b>.
+  <b>Full-Stack Developer & Frontend Specialist</b>
+  experienced in building responsive, scalable web applications
+  using <b>React.js, Next.js, and TypeScript</b>.
 </p>
 
 <p>
@@ -45,9 +41,9 @@
 </p>
 
 <p>
-  Based in <b>Kathmandu, Nepal 🇳🇵</b>, I have experience
-  working on professional and freelance projects,
-  from design implementation to production deployment.
+  Based in <b>Kathmandu, Nepal 🇳🇵</b>, I work on
+  professional and freelance projects, from design
+  implementation to production deployment.
 </p>
 
 <br clear="both"/>
@@ -147,7 +143,6 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<!-- GitHub Stats and Top Languages -->
 <div align="center">
   <img
     src="./profile/stats.svg"
@@ -163,7 +158,6 @@
 
 <br/>
 
-<!-- GitHub Streak -->
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=dhadkan99&theme=radical&hide_border=true"
@@ -174,7 +168,6 @@
 
 <br/>
 
-<!-- Full GitHub Contribution Summary -->
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhadkan99&theme=radical"
@@ -185,7 +178,6 @@
 
 <br/>
 
-<!-- Languages and Productive Time -->
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhadkan99&theme=radical"
@@ -205,7 +197,7 @@
 
 <div align="center">
 
-  <!-- Replace these with your actual account links -->
+  <!-- Replace with your actual account links -->
 
   <a href="https://instagram.com/" target="_blank">
     <img
@@ -231,5 +223,3 @@
 </div>
 
 ---
-
-
