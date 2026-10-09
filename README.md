@@ -25,17 +25,29 @@
 
 <img
   align="right"
-  height="140"
-  src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif"
-  alt="Coding GIF"
+  width="300"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  alt="Developer Animation"
 />
 
-<b>Frontend Developer | Computer Science Student | UI/UX & AI Enthusiast</b>
+<p>
+  <b>Full-Stack Developer & Frontend Specialist</b> specializing in
+  React.js, Next.js, and TypeScript with experience building responsive,
+  user-focused web applications. Skilled in API integration, translating
+  UI/UX designs into scalable solutions, and delivering high-quality
+  frontend experiences through professional and freelance projects.
+</p>
 
 <p>
-I enjoy building clean, functional, and user-focused web applications using modern frontend technologies.
-<br/><br/>
-Currently exploring <b>AI fundamentals</b>, <b>secure web development</b>, and <b>full-stack systems</b>.
+  I develop reusable UI components from Figma designs, integrate REST APIs,
+  and collaborate with teams using Git and Agile methodologies, always
+  focused on performance, accessibility, and cross-device compatibility.
+</p>
+
+<p>
+  Based in Kathmandu, Nepal, I work across professional internships and
+  freelance engagements, bringing the same editorial attention to detail
+  from design concept through production deployment.
 </p>
 
 <br clear="both"/>
@@ -121,24 +133,32 @@ Currently exploring <b>AI fundamentals</b>, <b>secure web development</b>, and <
 
 ---
 
-<h2 align="left">📊 GitHub Statistics</h2>
+<h2 align="center">🚀 GitHub Activities</h2>
 
 <div align="center">
+  <img
+    src="assets/space-shooter.gif"
+    alt="GitHub Space Shooter Animation"
+    width="100%"
+  />
+</div>
 
-  <!-- GitHub Stats -->
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<!-- GitHub Stats and Top Languages -->
+<div align="center">
   <img
     src="./profile/stats.svg"
     alt="Dhadkan KC GitHub Statistics"
-    height="190"
+    width="49%"
   />
-
-  <!-- Top Languages -->
   <img
     src="./profile/top-langs.svg"
     alt="Most Used Languages"
-    height="190"
+    width="49%"
   />
-
 </div>
 
 <br/>
@@ -148,13 +168,13 @@ Currently exploring <b>AI fundamentals</b>, <b>secure web development</b>, and <
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=dhadkan99&theme=radical&hide_border=true"
     alt="GitHub Contribution Streak"
-    width="80%"
+    width="95%"
   />
 </div>
 
 <br/>
 
-<!-- Profile Summary -->
+<!-- Full GitHub Contribution Summary -->
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhadkan99&theme=radical"
@@ -165,28 +185,27 @@ Currently exploring <b>AI fundamentals</b>, <b>secure web development</b>, and <
 
 <br/>
 
-<!-- Additional Statistics -->
+<!-- Languages and Productive Time -->
 <div align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhadkan99&theme=radical"
     alt="Repositories by Language"
-    height="190"
+    width="49%"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhadkan99&theme=radical&utcOffset=5.75"
     alt="Productive Time"
-    height="190"
+    width="49%"
   />
-
 </div>
 
 ---
 
-<h2 align="left">🔗 Connect with Me</h2>
+<h2 align="center">🔗 Connect with Me</h2>
 
-<div align="left">
+<div align="center">
+
+  <!-- Replace these with your actual account links -->
 
   <a href="https://instagram.com/" target="_blank">
     <img
@@ -209,18 +228,6 @@ Currently exploring <b>AI fundamentals</b>, <b>secure web development</b>, and <
     />
   </a>
 
-</div>
-
----
-
-<h2 align="left">🐍 GitHub Activity</h2>
-
-<div align="center">
-  <img
-    src="assets/space-shooter.gif"
-    alt="GitHub Space Shooter"
-    width="100%"
-  />
 </div>
 
 ---
